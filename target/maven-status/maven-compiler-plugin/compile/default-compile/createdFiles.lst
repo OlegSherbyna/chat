@@ -1,0 +1,9 @@
+com\project\validator\Validation.class
+com\project\bins\User.class
+com\project\servlet\Registration.class
+com\project\chat\RegisteredUsersSet.class
+com\project\myExceptions\NotRegisteredException.class
+com\project\servlet\LoginServlet.class
+com\project\bins\Message.class
+com\project\chat\Util.class
+com\project\chat\UserOnlineSet.class
